@@ -1,0 +1,18 @@
+Model Training Results - Laptop Price Prediction
+
+Model 1: Ridge Regression
+MSE: 279914087.78
+RMSE: 16730.63
+R² Score: 0.79
+
+Model 2: Lasso Regression (Best Model)
+MSE: 273086748.71
+RMSE: 16525.34
+R² Score: 0.79
+
+Final Model Performance on Full Dataset:
+MSE: 69545954.21
+RMSE: 8339.46
+R² Score: 0.95
+
+Training completed successfully with Lasso Regression as the best performing model.
